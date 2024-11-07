@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kanish kRaj
-- 👀 I’m interested in 
+- 👀 I’m interested in Web Devlopment and App Devlopment
 - 🌱 I’m currently learning MERN stak
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
