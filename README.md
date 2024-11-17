@@ -2,10 +2,9 @@
 
 # Hi 👋, I'm Kanishk Raj
 
-Building web experiences from front-end to back-end
+<h3>Building web experiences from front-end to back-end</h3>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
 
