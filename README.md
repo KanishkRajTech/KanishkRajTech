@@ -7,22 +7,22 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KanishkRajTech)
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+<table style="border:none;">
+<tr>
+<td style="vertical-align: top;">
 
-  <div style="max-width: 500px;">
-      - 👀 I’m interested in Web Development and App Development <br/> <br/>
-      - 🌱 I’m currently learning MERN stack <br/> <br/>
-      - 💬 Ask me about WEB  <br/> <br/>
-      - 📫 How to reach me kanishkraj600@gmail.com <br/> <br/>
-      - ⚡ Fun fact: I’m an introvert  <br/> <br/>
-  </div>
+- 👀 I’m interested in Web Development and App Development <br/><br/>
+- 🌱 I’m currently learning MERN stack <br/><br/>
+- 💬 Ask me about WEB <br/><br/>
+- 📫 How to reach me kanishkraj600@gmail.com <br/><br/>
+- ⚡ Fun fact: I’m an introvert <br/><br/>
 
-  <div>
-      <img src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Programming GIF" style="max-width: 100%; height: auto;" width="400"/>
-  </div>
-
-</div>
-
+</td>
+<td style="vertical-align: top;">
+  <img src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Programming GIF" width="400"/>
+</td>
+</tr>
+</table>
 
 ## Connect with me:
 
@@ -45,25 +45,13 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-
-
 ---
 
-<div display-flex flex-wrap aling-item-center gap-5 item-centr>
+<div display-flex flex-wrap align-items-center gap-5 item-center>
   
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KanishkRajTech&theme=dracula)
 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=KanishkRajTech&show_icons=true&theme=radical)
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KanishkRajTech&show_icons=true&theme=radical)
 
 </div>
-
-
-
-
-
----
-
-
