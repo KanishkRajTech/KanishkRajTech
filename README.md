@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Kanishk Raj
+# Hi 👋, I'm Kanishka Raj
 
 <h3>Building web experiences from front-end to back-end</h3>
 </div>
