@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Kanishk Raj
+# Hi <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>, I'm Kanishk Raj
 
 <h3>Building web experiences from front-end to back-end</h3>
 </div>
@@ -79,4 +79,6 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
-
+<p align="center" width="100%" id="footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=footer&text=Have%20a%20great%20day!" width="100%">
+</p>
