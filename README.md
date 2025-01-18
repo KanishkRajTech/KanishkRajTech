@@ -48,11 +48,35 @@
 
 ---
 
-<div display-flex flex-wrap align-items-center gap-5 item-center>
-  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KanishkRajTech&theme=dracula)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KanishkRajTech&show_icons=true&theme=radical)
+# Statistics
 
 </div>
+<table align="center">  
+    <tr><td align="center">
+    <a href="/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkRajTech&hide_border=true&layout=compact&theme=radical" width="500"/></a>
+</td>
+    <td align="center">
+        <a href="/"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KanishkRajTech&hide_border=true&theme=radical" width="500"/></a>
+    </td></tr>
+    <tr><td align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KanishkRajTech&hide_border=true&theme=radical)
+</td>
+<td align="center">
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KanishkRajTech\&hide_border=true&show_icons=true\&theme=radical)
+
+</td></tr>
+    <tr>
+        <td align="center" colspan="2">
+            <p align="center">
+              <a href="https://github.com/KanishkRajTech">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanishkRajTech&hide_border=true&theme=radical" alt="Vidhi's GitHub Contribution" width="1000"/>  </a>
+</p></td> </tr>
+</table>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+
+
