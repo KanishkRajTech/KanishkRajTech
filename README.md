@@ -61,8 +61,7 @@
         <a href="/"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KanishkRajTech&hide_border=true&theme=radical" width="500"/></a>
     </td></tr>
     <tr><td align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=KanishkRajTech&hide_border=true&theme=radical)
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/kanishkrajtech?theme=dark&font=Nunito&ext=heatmap" /> 
 </td>
 <td align="center">
 
